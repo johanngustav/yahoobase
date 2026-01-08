@@ -6,7 +6,7 @@ If you find your **Yahoo email already logged in**, you’re not alone. Whether 
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="https://desk-yahoo.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Yahoo</a>
+       <a href="https://deskyahoo.vercel.app" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Yahoo</a>
    </div>
 
 Whether you're managing personal or professional communication, staying aware of your login status can protect your privacy. We’ll walk you through account access, session management, sign-out procedures, and security best practices to make sure your email stays in your control at all times.
@@ -185,3 +185,4 @@ Helpful Links
 - `Yahoo Account Settings <https://login.yahoo.com/account/security>`_
 - `Account Activity Page <https://login.yahoo.com/account/activity>`_
 - `Account Recovery Help <https://login.yahoo.com/forgot>`_
+
